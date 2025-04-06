@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswin-Koroth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswin-Koroth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Aswin-Koroth&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-Koroth&radius=8&theme=nightowl&area=true&order=5&hide_title=false&hide_border=true" height="288" alt="activity-graph graph"  />
 </div>
